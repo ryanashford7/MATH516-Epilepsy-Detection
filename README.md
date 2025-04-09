@@ -1,2 +1,2 @@
 # MATH516-Epilepsy-Detection
-Coursework for MATH516: EEG-based Epilepsy Detection
+This repository contains a Jupyter Notebook script and the dataset used for the coursework of MATH516, which focuses on developing machine learning models to accurately detect epilepsy using EEG signals.
